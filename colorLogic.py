@@ -230,5 +230,3 @@ class logic:
             self.colorDiag(list, list[ix][2], list[ix][3])
         if piece == 'K':
             self.colorKing(list, list[ix][2], list[ix][3])
-
-        
